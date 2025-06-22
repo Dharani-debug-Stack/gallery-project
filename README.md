@@ -12,7 +12,7 @@ A simple and visually appealing **Image Gallery** built using **HTML** and **CSS
 
 ## 🌳 Demo
 
-[Live Preview](#) — *(replace with your GitHub Pages link once deployed)*
+https://dharani-debug-stack.github.io/gallery-project/
 
 ## 🛠️ Technologies Used
 
